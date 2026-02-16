@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "fitPlotR"]
 	path = fitPlotR
-	url = https://github.com/cran/fitPlotR
+	url = https://github.com/muhammadosama0846-ops/fitplotr
